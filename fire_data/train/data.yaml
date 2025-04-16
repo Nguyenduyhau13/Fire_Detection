@@ -1,0 +1,6 @@
+path: ../  
+train: fire_data/train/images
+val: fire_data/test/images  
+
+nc: 1
+names: ['fire']
